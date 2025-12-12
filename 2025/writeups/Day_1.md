@@ -46,4 +46,4 @@ This task is just about connecting to the machine. I spawned a machine and used 
 ---
 
 ### Sub-Question 5: Check McSkidy's hidden note in `/home/mcskidy/Documents/` to get access to the Side Quest 1.
-This will be detailed in a separate directory exclusively for Side Quests. The walkthrough is present here: [SideQuest 1](Side_quests/Side_Quest_1.md)
+This will be detailed in a separate directory exclusively for Side Quests. The walkthrough is present here: [Pre-SideQuest 1](Side_quests/Pre_Side_Quest_1.md)
