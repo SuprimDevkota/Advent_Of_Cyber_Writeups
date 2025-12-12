@@ -4,6 +4,8 @@
 **Room URL:** https://tryhackme.com/room/phishing-aoc2025-h2tkye9fzU
 
 ### Objectives
+1. To understand social engineering and phishing.
+2. To simulate a phishing incident using an open-source tool.
 
 ---
 
