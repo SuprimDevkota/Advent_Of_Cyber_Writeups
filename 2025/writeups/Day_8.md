@@ -1,4 +1,4 @@
-# Advent of Cyber 2025 Writeup: Day X
+# Advent of Cyber 2025 Writeup: Day 8
 
 ## Overview
 **Room URL:** https://tryhackme.com/room/promptinjection-aoc2025-sxUMnCkvLO
